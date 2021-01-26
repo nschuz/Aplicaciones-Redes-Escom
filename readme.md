@@ -1,13 +1,16 @@
-#Practicas y  Tareas.
-##Materia: Aplicaciones para comunicaciones  y Servicios en Red.
-##Profesor: Axel Moreno Cervantes
-######Alumnos : Regis Valero Jorge Jesus   /  Medina Martinez Miguel Angel 
-######Grupo: 3CM7
-######Escuela: ESCOM IPN
+# Practicas y  Tareas.
 
-####Practicas
+## Materia: Aplicaciones para comunicaciones  y Servicios en Red.
 
-:satisfied:
+## Profesor: Axel Moreno Cervantes
+
+###### Alumnos : Regis Valero Jorge Jesus   /  Medina Martinez Miguel Angel 
+
+###### Grupo: 3CM7
+
+###### Escuela: ESCOM IPN
+
+#### Practicas     :satisfied:
 
 1. Simular google drive o dropbox  usando sockets (JAVA)
 2. Creacion de una tienda utilizando sockets  (JAVA)
@@ -15,7 +18,7 @@
 4. Crear una herramienta tipo wget implementando hilos (JAVA)
 5. Crear un chat con sockets no-bloqueantes  (C)
 
-####Tareas
+####  Tareas
 1. Juego ahorcado usando sockets.
 2. Datagrama Eco
 3. Flujo de archivos
@@ -50,7 +53,7 @@ La tienda tienen stock y puede tener persistencia a multiples clientes.
 ![](https://i.postimg.cc/5yBwntSM/practica3-2.png)
 
 ----------------------------------
-###Practica 4 
+### Practica 4 
 Herramienta similar a Wget que permita descrgar archivos como imagenes , .pdf , .html , .css y cualquier tipo de archivo que este en un servidor web
 
 >Capturas
@@ -59,5 +62,5 @@ Herramienta similar a Wget que permita descrgar archivos como imagenes , .pdf , 
 ![](https://i.postimg.cc/ZqfBYdVR/practica4-2.png)
 
 -----------------------------------
-###Practica 5 
+### Practica 5 
 Chat usando socket no-bloquentes (C)
