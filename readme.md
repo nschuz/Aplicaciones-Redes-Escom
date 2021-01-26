@@ -1,4 +1,4 @@
-# Practicas y  Tareas.
+# Practicas y Tareas.
 
 ## Materia: Aplicaciones para comunicaciones  y Servicios en Red.
 
@@ -64,3 +64,5 @@ Herramienta similar a Wget que permita descrgar archivos como imagenes , .pdf , 
 -----------------------------------
 ### Practica 5 
 Chat usando socket no-bloquentes (C)
+
+
